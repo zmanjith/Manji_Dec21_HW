@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
 First Editing File1.txt by Manji, Server 1
 
 First Editing File1.txt by Manu, Server 2
+=======
+>>>>>>> parent of d604775 (Server1 Second Commit Manji)
